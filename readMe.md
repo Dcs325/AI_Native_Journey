@@ -3,6 +3,7 @@ My Awesome Project
 This is a placeholder README file for your new project! Think of this as the main welcome sign for anyone looking at your code. You can describe what your project is about, its main goal, or why you created it.
 
 ✨ Features
+
 What cool things does your project do? List them here!
 
 [Feature 1]: Briefly explain this feature.
@@ -12,6 +13,7 @@ What cool things does your project do? List them here!
 [Feature 3]: And another one!
 
 🚀 Getting Started
+
 How can someone else (or your future self!) run this project?
 
 Prerequisites
@@ -22,6 +24,7 @@ What do people need to have installed before they can use your project?
 [Dependency 2] (e.g., Git)
 
 Installation
+
 Step-by-step instructions to get your project up and running.
 
 Clone the repository:
@@ -42,11 +45,14 @@ npm install
 pip install -r requirements.txt
 
 💡 Usage
+
 How do you actually use your project once it's installed?
 
 # Example command to run your application
+
 npm start
 # or
+
 python main.py
 
 [You can add screenshots or animated GIFs here to show off your project in action!]
